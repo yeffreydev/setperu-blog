@@ -1,4 +1,4 @@
-# Set Peru Blog (es un fork de Astro-Theme-Yi) [Astro-Theme-YI](https://github.com/cirry/astro-yi.git)
+# Set Peru Blog (es un clon de Astro-Theme-Yi) [Astro-Theme-YI](https://github.com/cirry/astro-yi.git)
 
 [[English]](./README.md) | [[简体中文]](./README-ZH-CN.md)
 
