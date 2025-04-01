@@ -30,7 +30,7 @@ export const es = {
   "memos.loadMore": "Cargar más",
   "pagination.total": "Total",
   "pagination.unit": "Páginas",
-  "post.dateFormat": "D [de] MMM [de] YYYY",
+  "post.dateFormat": "D [de] MMM [del] YYYY",
   "post.lastUpdated": "Última actualización",
   "post.lastUpdatedTip1": "Este artículo fue actualizado por última vez el",
   "post.lastUpdatedTip2":
