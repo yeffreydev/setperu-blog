@@ -1,7 +1,7 @@
 ---
 date: 2025-06-02
 title: Cómo Crear Apps Node.js Bajo Demanda para Usuarios con Dominio Personalizado
-description: Aprende a construir un sistema multi-tenant en Node.js donde los usuarios pueden solicitar su propia app con dominio personalizado. Descubre las opciones: enrutamiento dinámico, contenedores Docker, proxies reversos y las mejores prácticas para escalar tu SaaS
+description: Aprende a construir un sistema multi-tenant en Node.js donde los usuarios pueden solicitar su propia app con dominio personalizado. Descubre las opciones como enrutamiento dinámico, contenedores Docker, proxies reversos y las mejores prácticas para escalar tu SaaS
 tags: [web,saas,nodejs,multi-tenant]
 category: Aplicaciones SaaS
 ogImage: https://astro-yi.obs.cn-east-3.myhuaweicloud.com/avatar.png
